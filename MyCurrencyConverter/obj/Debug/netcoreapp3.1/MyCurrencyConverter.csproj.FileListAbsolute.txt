@@ -1,0 +1,13 @@
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\bin\Debug\netcoreapp3.1\MyCurrencyConverter.exe
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\obj\Debug\netcoreapp3.1\MyCurrencyConverter.csprojAssemblyReference.cache
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\obj\Debug\netcoreapp3.1\MyCurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\obj\Debug\netcoreapp3.1\MyCurrencyConverter.AssemblyInfo.cs
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\bin\Debug\netcoreapp3.1\MyCurrencyConverter.deps.json
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\bin\Debug\netcoreapp3.1\MyCurrencyConverter.runtimeconfig.json
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\bin\Debug\netcoreapp3.1\MyCurrencyConverter.runtimeconfig.dev.json
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\bin\Debug\netcoreapp3.1\MyCurrencyConverter.dll
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\bin\Debug\netcoreapp3.1\MyCurrencyConverter.pdb
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\obj\Debug\netcoreapp3.1\MyCurrencyConverter.csproj.CopyComplete
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\obj\Debug\netcoreapp3.1\MyCurrencyConverter.dll
+C:\Users\Kasutaja\Desktop\MyCurrencyConverter\MyCurrencyConverter\obj\Debug\netcoreapp3.1\MyCurrencyConverter.pdb
