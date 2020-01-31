@@ -14,7 +14,7 @@ namespace MyCurrencyConverter
 
             Console.WriteLine("Welcome to our currency converter!\n");
 
-            string url = "https://openexchangerates.org/api/latest.json?app_id=b05a9cc2604b409aab098cf79b143034";
+            string url = "https://openexchangerates.org/api/latest.json?app_id=/*removed*/";
 
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             request.Method = "GET";
